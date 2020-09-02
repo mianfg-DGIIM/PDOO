@@ -21,7 +21,7 @@ Estos son los contenidos que he realizado mientras cursaba esta asignatura en el
 
 Al contenido de este repositorio han contribuido además:
 
-* Sergio Quijano Rey (@SergioQuijanoRey): _compañero de [prácticas](./Prácticas)_.
+* Sergio Quijano Rey ([@SergioQuijanoRey](https://github.com/SergioQuijanoRey)): _compañero de [prácticas](./Prácticas)_.
 
 ### Licencia
 
