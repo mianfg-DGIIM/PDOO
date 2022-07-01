@@ -1,6 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/292336276/6a990f00-ed4a-11ea-9c6b-eb83fd20a3d8)
+![Repo image](https://repository-images.githubusercontent.com/292336276/2ca952e7-82b1-4522-b1bb-8889bb660e63)
 
 # `PDOO` Programación y Diseño Orientado a Objetos
 
